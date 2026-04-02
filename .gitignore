@@ -1,0 +1,18 @@
+# Unreal Engine 5
+
+# Build results
+[Binaries/](Binaries/)
+[DerivedDataCache/](DerivedDataCache/)
+[Intermediate/](Intermediate/)
+[Saved/](Saved/)
+[Plugins/](Plugins/)
+
+# IDE project files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# User-specific files
+*.user
+*.sln.docstates
